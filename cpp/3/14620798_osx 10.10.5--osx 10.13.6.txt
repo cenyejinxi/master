@@ -1,0 +1,4 @@
+ 10.10.5-10.13.6下载链接：https://pan.baidu.com/s/16vUU3jXccMBsoj2S6TpHeQ 密码：wrt8
+
+10.10.5制作U盘的命令：sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/OSX --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+
